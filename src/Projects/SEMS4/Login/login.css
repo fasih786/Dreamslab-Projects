@@ -1,0 +1,39 @@
+body {
+  background-color: grey;
+}
+
+#login-h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 2%;
+  margin-bottom: none;
+  color: white;
+}
+
+#email {
+  padding: 0% 0% 0% 43%;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#password {
+  padding: 0% 0% 0% 43%;
+  margin-bottom: none;
+  /* border: 5px solid white; */
+  border-radius: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#button {
+  color: white;
+  border-radius: 5px;
+  background-color: rgb(58, 57, 57);
+  text-align: center;
+  border: none;
+  width: fit-content;
+  height: fit-content;
+  margin: 5% 0% 0% 46%;
+  padding:1%;
+  font-size: 25px;
+}
